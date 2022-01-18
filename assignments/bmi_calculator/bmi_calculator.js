@@ -9,6 +9,6 @@ function BMICalculator(mass, height) {
     }else {
         return "INVALID INPUT"
     }
-}
+} 
 
 module.exports = BMICalculator;
